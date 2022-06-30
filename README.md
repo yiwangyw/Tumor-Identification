@@ -183,7 +183,4 @@ Project Link: [https://github.com/yiwangyw/Tumor-Identification](https://github.
 
 
 
-
-
-<<<<<<< HEAD
 =======
