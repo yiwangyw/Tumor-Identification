@@ -17,6 +17,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d8507dda3e34247a08ccc3a2b285d24382376a8
 
 
 <!-- PROJECT LOGO -->
@@ -183,3 +187,5 @@ Project Link: [https://github.com/yiwangyw/Tumor-Identification](https://github.
 
 
 
+<<<<<<< HEAD
+=======
